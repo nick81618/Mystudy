@@ -1,0 +1,68 @@
+body{
+    background: #ccc;
+}
+
+#Header a:hover
+{
+    color: #fff;
+}
+#contact-img{
+  background: url('../img/Contact.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+#background{
+  background: url('../img/skills.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 500px;
+}
+#bg-img{
+    background: url('../img/back.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#about{
+
+    margin-top: -200px;
+}
+
+#about .fa{
+    color: #fff;
+}
+#about span{
+    padding: 10px 10px 10px 10px;
+}
+
+#about hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+#skills span{
+    padding: 10px 10px 10px 10px;
+}
+
+#skills hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+
+}
+
+.contact_social_icons ul li a {
+    font-size: 24px;
+    color: #b1b1b1;
+    padding-right: 46px;
+}
+
+.contact_social_icons ul li a:hover{
+    color: #1ba974;
+}
+
+.bg-light {
+    background-color: #f8f9fa!important;
+}
